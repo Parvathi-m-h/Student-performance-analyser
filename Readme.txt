@@ -1,0 +1,4 @@
+-Put the website files in xampp/htdocs
+-start xampp
+-go to browser
+-use "localhost/website/login.php"
